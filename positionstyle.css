@@ -66,3 +66,22 @@ figure{
     z-index: 2;
 }
 
+.asidemenu{
+    border: 1px solid black;
+    border-radius: 5px;
+    position: fixed;
+    text-align: center;
+    top:15%;
+}
+.asidemenu img{
+    height: 75px;
+    width: 75px;
+    padding-top: 5px;
+}
+.asidemenu ul{
+    list-style: none;
+    padding-left: 5px;
+}
+
+
+  
